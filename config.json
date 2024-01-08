@@ -1,0 +1,4 @@
+{
+  "google_drive_file_id": "your_google_drive_file_id",
+  "preserved_folders": ["folder1", "folder2/subfolder"]
+}
